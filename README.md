@@ -1,4 +1,7 @@
 # Daily Sudoku Solver
+Notice: this project is essentially abandoned.
+It was part of an unofficial competition between me and some friends, and that competition is since over.
+
 This project has two components: an incomplete rule-based Sudoku solver, and an extremely system-specific and imperfect bot to play the Daily Sudoku Facebook Messenger game.
 I would *strongly* recommend not running the project on your computer at this stage, as it cannot be terminated, has several UX issues, and is *unbelievably* system-specific.
 
